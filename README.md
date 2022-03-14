@@ -8,5 +8,5 @@ Hello World! @jlbiscontin here 👋
 Just another OCD-like-SysAdmin.
 
 - 🤓 Interested about everything I don't know (*yet*)
-- Currently learning about ☁
+- Currently learning about ☁ + trying to get back on track with Python
 - 📫 You can reach me by LinkedIn
